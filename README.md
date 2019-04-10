@@ -10,4 +10,5 @@ Setelah didownload ekstrak file zip yang di download dan akan terbuka dipycharm
 ![UAS3](https://user-images.githubusercontent.com/46735232/55852460-4fdb5e80-5b87-11e9-9afa-df5adf17af6d.JPG)
 
 Turunkan BaseApp dengan nama APP dan disamakan dengan main.py
+![UAS4](https://user-images.githubusercontent.com/46735232/55852819-a85f2b80-5b88-11e9-9755-87afa4fa7b76.JPG)
 
