@@ -3,6 +3,9 @@ Buka Github dan Login
 Lakukan Fork dari repository 
 ![UAS1](https://user-images.githubusercontent.com/46735232/55852452-4c47d780-5b87-11e9-8630-687cf85fc7af.JPG)
 
+Lakukan Konvigurasi virtual environtment
+![UAS5](https://user-images.githubusercontent.com/46735232/55853044-9336cc80-5b89-11e9-9639-da474a2d0aaf.jpg)
+
 Klik Clone or download, lalu download zip
 ![UAS2](https://user-images.githubusercontent.com/46735232/55852456-4e119b00-5b87-11e9-81c1-f7d2892d42fe.JPG)
 
